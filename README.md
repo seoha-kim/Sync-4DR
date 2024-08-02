@@ -1,2 +1,2 @@
 # Sync-4DRF
-Website for "Radiance Fields-Based 4D Scene Reconstruction from Unsynchronized Videos"
+Website for "Optimising dynamic NeRF and 3DGS with No Video Synchronization"
